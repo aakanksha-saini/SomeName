@@ -6,7 +6,7 @@ import com.pluralsight.repository.CustomerRepository;
 import com.pluralsight.repository.HibernateCustomerRepositoryImpl;
 import com.pluralsight.service.CustomerService;
 
-
+//This is pluralsight work!!!!!!
 @Configuration
 @ComponentScan({"com.pluralsight"})
 public class AppConfig {
