@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import com.pluralsight.repository.CustomerRepository;
 import com.pluralsight.repository.HibernateCustomerRepositoryImpl;
 import com.pluralsight.service.CustomerService;
-import com.pluralsight.service.CustomerServiceImpl;
+
 
 @Configuration
 @ComponentScan({"com.pluralsight"})
