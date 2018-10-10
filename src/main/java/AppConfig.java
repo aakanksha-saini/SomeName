@@ -5,8 +5,12 @@ import org.springframework.context.annotation.Configuration;
 import com.pluralsight.repository.CustomerRepository;
 import com.pluralsight.repository.HibernateCustomerRepositoryImpl;
 import com.pluralsight.service.CustomerService;
-
+//sdjkhksdfjadh
+>>>>>>> HEAD
 //hiiiiiiii
+=======
+//This is pluralsight work!!!!!!
+>>>>>>> 953c7b8ca93df0fe5d9b44288c073f3782aed24f
 @Configuration
 @ComponentScan({"com.pluralsight"})
 public class AppConfig {
